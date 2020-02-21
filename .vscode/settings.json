@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true,
+    "source.fixAll.tslint": true,
+  },
+  "files.associations": {
+    "tslint.json": "jsonc"
+  },
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "cSpell.words": [
+    "devtools",
+    "zipcode"
+  ]
+}
